@@ -1,5 +1,5 @@
 # Hi! I'm Saad👋
-## Senior Software Engineer 💻
+## Software Engineer 💻
 
 >  I'm a skilled software engineer with more than three years of experience specializing in building mobile applications and web solutions. I have a strong background in MERN Stack & React Native.
 <be>
