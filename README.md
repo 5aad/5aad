@@ -30,7 +30,7 @@
 <div>
 	<a href="mailto:saad_anwer@live.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="Outlook"/></a>
 	<a href="https://github.com/5aad"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/saad-anwar-software-developer-mobile-app-developer/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/saad-anwar16/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </div>
 
 <!--
