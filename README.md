@@ -4,6 +4,7 @@
 >  I'm a skilled software engineer specializing in building mobile applications and web solutions. I have a strong background in the MERN stack and React Native.
 <be>
 <br />
+<a href="http://tiny.cc/work-sample">Project Showcase</a>
 <hr/>
 
 ## Programming Languages
